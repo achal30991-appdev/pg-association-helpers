@@ -1,4 +1,4 @@
-# Photogram Queries
+# Photogram Association Helpers
 
 In this project, we're going to practice querying our tables more; in particular, we want to practice leveraging the foreign key columns we added to build **associations** between tables.
 
